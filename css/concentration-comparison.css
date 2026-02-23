@@ -1,0 +1,83 @@
+#microplastics-concentration-comparison-container {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #0a3b4e;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+}
+
+#microplastics-comparison-heading {
+    font-size: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+#concentration-chart {
+    display: block;
+    margin: 0 auto 30px auto;
+    border-radius: 10px;
+    background-color: #072935;
+}
+
+#chart-legend {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 14px;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+#chart-legend span {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+#chart-legend .legend-dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+#concentration-tooltip {
+    width: 200px;
+    text-align: center;
+    padding: 6px 10px;
+    font-size: 12px;
+    background: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    border-radius: 4px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+    z-index: 1000;
+}
+
+.year-label {
+    fill: #666;
+    font-size: 12px;
+}
+
+.organ-label {
+    fill: #ffffff;
+    font-size: 13px;
+    text-anchor: middle;
+}
+
+.fold-line {
+    stroke: #b23232;
+    stroke-width: 2px;
+    fill: none;
+}
+
+.dot {
+    stroke: white;
+    stroke-width: 2;
+    fill-opacity: 0.9;
+}

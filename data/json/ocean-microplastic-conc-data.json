@@ -1,0 +1,939 @@
+{
+  "Atlantic Ocean": [
+    {
+      "name": "Caribbean Sea",
+      "long": -75,
+      "lat": 15,
+      "fragments": 206,
+      "fibers": 524,
+      "films": 71,
+      "beads": 109
+    },
+    {
+      "name": "Sargasso Sea",
+      "long": -45,
+      "lat": 30,
+      "fragments": 144,
+      "fibers": 172,
+      "films": 232,
+      "beads": 127
+    },
+    {
+      "name": "Gulf of Mexico",
+      "long": -90,
+      "lat": 25,
+      "fragments": 481,
+      "fibers": 500,
+      "films": 242,
+      "beads": 26
+    },
+    {
+      "name": "Labrador Sea",
+      "long": -55,
+      "lat": 60,
+      "fragments": 709,
+      "fibers": 242,
+      "films": 147,
+      "beads": 34
+    },
+    {
+      "name": "Baffin Bay",
+      "long": -70,
+      "lat": 70,
+      "fragments": 504,
+      "fibers": 516,
+      "films": 159,
+      "beads": 129
+    },
+    {
+      "name": "Hudson Bay",
+      "long": -85,
+      "lat": 60,
+      "fragments": 715,
+      "fibers": 252,
+      "films": 78,
+      "beads": 32
+    },
+    {
+      "name": "Norwegian Sea",
+      "long": 0,
+      "lat": 70,
+      "fragments": 311,
+      "fibers": 756,
+      "films": 168,
+      "beads": 164
+    },
+    {
+      "name": "North Sea",
+      "long": 4,
+      "lat": 57,
+      "fragments": 363,
+      "fibers": 214,
+      "films": 185,
+      "beads": 117
+    },
+    {
+      "name": "Baltic Sea",
+      "long": 20,
+      "lat": 58,
+      "fragments": 482,
+      "fibers": 113,
+      "films": 290,
+      "beads": 66
+    },
+    {
+      "name": "Celtic Sea",
+      "long": -8,
+      "lat": 50,
+      "fragments": 177,
+      "fibers": 735,
+      "films": 288,
+      "beads": 122
+    },
+    {
+      "name": "English Channel",
+      "long": -2,
+      "lat": 50,
+      "fragments": 149,
+      "fibers": 605,
+      "films": 100,
+      "beads": 116
+    },
+    {
+      "name": "Bay of Biscay",
+      "long": -5,
+      "lat": 45,
+      "fragments": 584,
+      "fibers": 498,
+      "films": 174,
+      "beads": 85
+    },
+    {
+      "name": "South Atlantic Gyre",
+      "long": -20,
+      "lat": -30,
+      "fragments": 630,
+      "fibers": 664,
+      "films": 72,
+      "beads": 103
+    },
+    {
+      "name": "Argentine Basin",
+      "long": -50,
+      "lat": -40,
+      "fragments": 730,
+      "fibers": 184,
+      "films": 108,
+      "beads": 75
+    },
+    {
+      "name": "Brazil Basin",
+      "long": -35,
+      "lat": -20,
+      "fragments": 163,
+      "fibers": 464,
+      "films": 263,
+      "beads": 141
+    },
+    {
+      "name": "Angola Basin",
+      "long": 5,
+      "lat": -15,
+      "fragments": 256,
+      "fibers": 587,
+      "films": 212,
+      "beads": 186
+    },
+    {
+      "name": "Guinea Basin",
+      "long": -10,
+      "lat": 0,
+      "fragments": 303,
+      "fibers": 501,
+      "films": 65,
+      "beads": 84
+    },
+    {
+      "name": "Cape Verde Basin",
+      "long": -25,
+      "lat": 10,
+      "fragments": 279,
+      "fibers": 330,
+      "films": 63,
+      "beads": 78
+    },
+    {
+      "name": "Iberian Basin",
+      "long": -10,
+      "lat": 40,
+      "fragments": 731,
+      "fibers": 725,
+      "films": 244,
+      "beads": 191
+    },
+    {
+      "name": "Rockall Trough",
+      "long": -15,
+      "lat": 55,
+      "fragments": 570,
+      "fibers": 555,
+      "films": 121,
+      "beads": 129
+    },
+    {
+      "name": "Iceland Basin",
+      "long": -20,
+      "lat": 60,
+      "fragments": 176,
+      "fibers": 286,
+      "films": 243,
+      "beads": 137
+    },
+    {
+      "name": "Reykjanes Ridge",
+      "long": -30,
+      "lat": 55,
+      "fragments": 648,
+      "fibers": 213,
+      "films": 297,
+      "beads": 70
+    }
+  ],
+  "Pacific Ocean": [
+    {
+      "name": "Philippine Sea",
+      "long": 130,
+      "lat": 20,
+      "fragments": 179,
+      "fibers": 390,
+      "films": 101,
+      "beads": 175
+    },
+    {
+      "name": "Coral Sea",
+      "long": 155,
+      "lat": -18,
+      "fragments": 340,
+      "fibers": 608,
+      "films": 122,
+      "beads": 83
+    },
+    {
+      "name": "Bering Sea",
+      "long": -170,
+      "lat": 60,
+      "fragments": 571,
+      "fibers": 516,
+      "films": 195,
+      "beads": 81
+    },
+    {
+      "name": "Sea of Okhotsk",
+      "long": 145,
+      "lat": 55,
+      "fragments": 124,
+      "fibers": 201,
+      "films": 219,
+      "beads": 150
+    },
+    {
+      "name": "East China Sea",
+      "long": 125,
+      "lat": 28,
+      "fragments": 411,
+      "fibers": 521,
+      "films": 247,
+      "beads": 161
+    },
+    {
+      "name": "South China Sea",
+      "long": 115,
+      "lat": 15,
+      "fragments": 118,
+      "fibers": 672,
+      "films": 147,
+      "beads": 184
+    },
+    {
+      "name": "Yellow Sea",
+      "long": 122,
+      "lat": 35,
+      "fragments": 324,
+      "fibers": 779,
+      "films": 152,
+      "beads": 34
+    },
+    {
+      "name": "Celebes Sea",
+      "long": 123,
+      "lat": 5,
+      "fragments": 431,
+      "fibers": 250,
+      "films": 278,
+      "beads": 88
+    },
+    {
+      "name": "Sulu Sea",
+      "long": 121,
+      "lat": 10,
+      "fragments": 296,
+      "fibers": 269,
+      "films": 67,
+      "beads": 120
+    },
+    {
+      "name": "Java Sea",
+      "long": 112,
+      "lat": -5,
+      "fragments": 766,
+      "fibers": 354,
+      "films": 86,
+      "beads": 182
+    },
+    {
+      "name": "Banda Sea",
+      "long": 130,
+      "lat": -5,
+      "fragments": 160,
+      "fibers": 372,
+      "films": 236,
+      "beads": 134
+    },
+    {
+      "name": "Solomon Sea",
+      "long": 155,
+      "lat": -10,
+      "fragments": 669,
+      "fibers": 509,
+      "films": 130,
+      "beads": 24
+    },
+    {
+      "name": "Tasman Sea",
+      "long": 165,
+      "lat": -40,
+      "fragments": 276,
+      "fibers": 785,
+      "films": 293,
+      "beads": 137
+    },
+    {
+      "name": "Gulf of Alaska",
+      "long": -150,
+      "lat": 55,
+      "fragments": 109,
+      "fibers": 279,
+      "films": 289,
+      "beads": 169
+    },
+    {
+      "name": "Gulf of California",
+      "long": -110,
+      "lat": 25,
+      "fragments": 559,
+      "fibers": 151,
+      "films": 76,
+      "beads": 30
+    },
+    {
+      "name": "North Pacific Gyre",
+      "long": -140,
+      "lat": 25,
+      "fragments": 544,
+      "fibers": 137,
+      "films": 277,
+      "beads": 47
+    },
+    {
+      "name": "South Pacific Gyre",
+      "long": -120,
+      "lat": -30,
+      "fragments": 773,
+      "fibers": 100,
+      "films": 288,
+      "beads": 165
+    },
+    {
+      "name": "Peru-Chile Current",
+      "long": -80,
+      "lat": -20,
+      "fragments": 137,
+      "fibers": 195,
+      "films": 225,
+      "beads": 92
+    },
+    {
+      "name": "Kuroshio Current",
+      "long": 135,
+      "lat": 35,
+      "fragments": 708,
+      "fibers": 506,
+      "films": 252,
+      "beads": 35
+    },
+    {
+      "name": "Mariana Trench",
+      "long": 145,
+      "lat": 15,
+      "fragments": 147,
+      "fibers": 179,
+      "films": 156,
+      "beads": 123
+    }
+  ],
+  "Indian Ocean": [
+    {
+      "name": "Arabian Sea",
+      "long": 65,
+      "lat": 15,
+      "fragments": 697,
+      "fibers": 588,
+      "films": 70,
+      "beads": 43
+    },
+    {
+      "name": "Bay of Bengal",
+      "long": 90,
+      "lat": 15,
+      "fragments": 751,
+      "fibers": 469,
+      "films": 298,
+      "beads": 100
+    },
+    {
+      "name": "Laccadive Sea",
+      "long": 75,
+      "lat": 10,
+      "fragments": 210,
+      "fibers": 797,
+      "films": 263,
+      "beads": 86
+    },
+    {
+      "name": "Andaman Sea",
+      "long": 98,
+      "lat": 10,
+      "fragments": 379,
+      "fibers": 698,
+      "films": 279,
+      "beads": 145
+    },
+    {
+      "name": "Red Sea",
+      "long": 38,
+      "lat": 20,
+      "fragments": 194,
+      "fibers": 738,
+      "films": 181,
+      "beads": 72
+    },
+    {
+      "name": "Persian Gulf",
+      "long": 52,
+      "lat": 26,
+      "fragments": 624,
+      "fibers": 314,
+      "films": 65,
+      "beads": 189
+    },
+    {
+      "name": "Gulf of Aden",
+      "long": 47,
+      "lat": 12,
+      "fragments": 470,
+      "fibers": 692,
+      "films": 251,
+      "beads": 176
+    },
+    {
+      "name": "Gulf of Oman",
+      "long": 58,
+      "lat": 25,
+      "fragments": 185,
+      "fibers": 505,
+      "films": 234,
+      "beads": 194
+    },
+    {
+      "name": "Mozambique Channel",
+      "long": 42,
+      "lat": -20,
+      "fragments": 732,
+      "fibers": 307,
+      "films": 54,
+      "beads": 166
+    },
+    {
+      "name": "Somali Basin",
+      "long": 55,
+      "lat": 0,
+      "fragments": 625,
+      "fibers": 435,
+      "films": 210,
+      "beads": 142
+    },
+    {
+      "name": "Mascarene Basin",
+      "long": 60,
+      "lat": -25,
+      "fragments": 444,
+      "fibers": 382,
+      "films": 133,
+      "beads": 97
+    },
+    {
+      "name": "Cocos Basin",
+      "long": 96,
+      "lat": -12,
+      "fragments": 548,
+      "fibers": 679,
+      "films": 180,
+      "beads": 136
+    },
+    {
+      "name": "Central Indian Basin",
+      "long": 85,
+      "lat": -10,
+      "fragments": 433,
+      "fibers": 183,
+      "films": 118,
+      "beads": 140
+    },
+    {
+      "name": "Agulhas Current",
+      "long": 35,
+      "lat": -35,
+      "fragments": 664,
+      "fibers": 248,
+      "films": 246,
+      "beads": 118
+    },
+    {
+      "name": "Great Australian Bight",
+      "long": 130,
+      "lat": -35,
+      "fragments": 763,
+      "fibers": 399,
+      "films": 283,
+      "beads": 62
+    },
+    {
+      "name": "Seychelles region",
+      "long": 55,
+      "lat": -5,
+      "fragments": 383,
+      "fibers": 498,
+      "films": 100,
+      "beads": 39
+    },
+    {
+      "name": "Maldives Plateau",
+      "long": 74,
+      "lat": 3,
+      "fragments": 501,
+      "fibers": 800,
+      "films": 117,
+      "beads": 48
+    },
+    {
+      "name": "Chagos-Laccadive Ridge",
+      "long": 72,
+      "lat": -5,
+      "fragments": 151,
+      "fibers": 633,
+      "films": 198,
+      "beads": 130
+    },
+    {
+      "name": "Madagascar Basin",
+      "long": 50,
+      "lat": -30,
+      "fragments": 649,
+      "fibers": 691,
+      "films": 274,
+      "beads": 128
+    },
+    {
+      "name": "Wharton Basin",
+      "long": 90,
+      "lat": -20,
+      "fragments": 729,
+      "fibers": 186,
+      "films": 64,
+      "beads": 180
+    }
+  ],
+  "Arctic Ocean": [
+    {
+      "name": "Beaufort Sea",
+      "long": -145,
+      "lat": 72,
+      "fragments": 726,
+      "fibers": 729,
+      "films": 143,
+      "beads": 153
+    },
+    {
+      "name": "Chukchi Sea",
+      "long": -165,
+      "lat": 70,
+      "fragments": 785,
+      "fibers": 242,
+      "films": 265,
+      "beads": 41
+    },
+    {
+      "name": "East Siberian Sea",
+      "long": 160,
+      "lat": 73,
+      "fragments": 260,
+      "fibers": 107,
+      "films": 237,
+      "beads": 54
+    },
+    {
+      "name": "Laptev Sea",
+      "long": 130,
+      "lat": 75,
+      "fragments": 464,
+      "fibers": 493,
+      "films": 50,
+      "beads": 108
+    },
+    {
+      "name": "Kara Sea",
+      "long": 80,
+      "lat": 75,
+      "fragments": 225,
+      "fibers": 396,
+      "films": 103,
+      "beads": 127
+    },
+    {
+      "name": "Barents Sea",
+      "long": 40,
+      "lat": 75,
+      "fragments": 431,
+      "fibers": 423,
+      "films": 126,
+      "beads": 193
+    },
+    {
+      "name": "Lincoln Sea",
+      "long": -60,
+      "lat": 84,
+      "fragments": 491,
+      "fibers": 690,
+      "films": 285,
+      "beads": 126
+    },
+    {
+      "name": "Greenland Sea",
+      "long": -10,
+      "lat": 75,
+      "fragments": 758,
+      "fibers": 535,
+      "films": 83,
+      "beads": 41
+    },
+    {
+      "name": "Canadian Basin",
+      "long": -120,
+      "lat": 80,
+      "fragments": 698,
+      "fibers": 627,
+      "films": 156,
+      "beads": 65
+    },
+    {
+      "name": "Nansen Basin",
+      "long": 45,
+      "lat": 81,
+      "fragments": 716,
+      "fibers": 402,
+      "films": 67,
+      "beads": 66
+    },
+    {
+      "name": "Fram Strait",
+      "long": 0,
+      "lat": 80,
+      "fragments": 494,
+      "fibers": 162,
+      "films": 106,
+      "beads": 52
+    },
+    {
+      "name": "Amundsen Basin",
+      "long": 150,
+      "lat": 82,
+      "fragments": 383,
+      "fibers": 467,
+      "films": 57,
+      "beads": 164
+    },
+    {
+      "name": "Gakkel Ridge",
+      "long": 90,
+      "lat": 85,
+      "fragments": 471,
+      "fibers": 763,
+      "films": 269,
+      "beads": 113
+    },
+    {
+      "name": "Makarov Basin",
+      "long": -150,
+      "lat": 85,
+      "fragments": 216,
+      "fibers": 615,
+      "films": 282,
+      "beads": 190
+    },
+    {
+      "name": "Lomonosov Ridge",
+      "long": 135,
+      "lat": 85,
+      "fragments": 365,
+      "fibers": 112,
+      "films": 242,
+      "beads": 150
+    },
+    {
+      "name": "Eurasian Basin",
+      "long": 60,
+      "lat": 87,
+      "fragments": 117,
+      "fibers": 123,
+      "films": 297,
+      "beads": 198
+    },
+    {
+      "name": "Pechora Sea",
+      "long": 52,
+      "lat": 68,
+      "fragments": 206,
+      "fibers": 361,
+      "films": 125,
+      "beads": 43
+    },
+    {
+      "name": "White Sea",
+      "long": 36,
+      "lat": 65,
+      "fragments": 501,
+      "fibers": 518,
+      "films": 204,
+      "beads": 104
+    },
+    {
+      "name": "Foxe Basin",
+      "long": -80,
+      "lat": 65,
+      "fragments": 477,
+      "fibers": 447,
+      "films": 255,
+      "beads": 95
+    },
+    {
+      "name": "Queen Victoria Basin",
+      "long": -100,
+      "lat": 75,
+      "fragments": 499,
+      "fibers": 631,
+      "films": 215,
+      "beads": 132
+    }
+  ],
+  "Southern Ocean": [
+    {
+      "name": "Weddell Sea",
+      "long": -45,
+      "lat": -70,
+      "fragments": 537,
+      "fibers": 651,
+      "films": 270,
+      "beads": 182
+    },
+    {
+      "name": "Ross Sea",
+      "long": -175,
+      "lat": -75,
+      "fragments": 452,
+      "fibers": 351,
+      "films": 232,
+      "beads": 26
+    },
+    {
+      "name": "Scotia Sea",
+      "long": -40,
+      "lat": -60,
+      "fragments": 535,
+      "fibers": 299,
+      "films": 292,
+      "beads": 69
+    },
+    {
+      "name": "Amundsen Sea",
+      "long": -115,
+      "lat": -72,
+      "fragments": 412,
+      "fibers": 377,
+      "films": 186,
+      "beads": 157
+    },
+    {
+      "name": "Bellingshausen Sea",
+      "long": -90,
+      "lat": -71,
+      "fragments": 699,
+      "fibers": 261,
+      "films": 295,
+      "beads": 26
+    },
+    {
+      "name": "Davis Sea",
+      "long": 95,
+      "lat": -66,
+      "fragments": 605,
+      "fibers": 294,
+      "films": 78,
+      "beads": 89
+    },
+    {
+      "name": "Cosmonauts Sea",
+      "long": 50,
+      "lat": -65,
+      "fragments": 375,
+      "fibers": 724,
+      "films": 158,
+      "beads": 133
+    },
+    {
+      "name": "Cooperation Sea",
+      "long": 60,
+      "lat": -63,
+      "fragments": 433,
+      "fibers": 529,
+      "films": 300,
+      "beads": 40
+    },
+    {
+      "name": "Riiser-Larsen Sea",
+      "long": 35,
+      "lat": -67,
+      "fragments": 118,
+      "fibers": 568,
+      "films": 169,
+      "beads": 106
+    },
+    {
+      "name": "Lazarev Sea",
+      "long": 10,
+      "lat": -68,
+      "fragments": 566,
+      "fibers": 554,
+      "films": 192,
+      "beads": 60
+    },
+    {
+      "name": "Somov Sea",
+      "long": 160,
+      "lat": -70,
+      "fragments": 445,
+      "fibers": 457,
+      "films": 82,
+      "beads": 109
+    },
+    {
+      "name": "Mawson Sea",
+      "long": 100,
+      "lat": -67,
+      "fragments": 152,
+      "fibers": 152,
+      "films": 119,
+      "beads": 106
+    },
+    {
+      "name": "D\u2019Urville Sea",
+      "long": 140,
+      "lat": -66,
+      "fragments": 528,
+      "fibers": 756,
+      "films": 94,
+      "beads": 158
+    },
+    {
+      "name": "Dumont d\u2019Urville Sea",
+      "long": 135,
+      "lat": -66,
+      "fragments": 192,
+      "fibers": 584,
+      "films": 135,
+      "beads": 107
+    },
+    {
+      "name": "Vincennes Bay",
+      "long": 120,
+      "lat": -66,
+      "fragments": 191,
+      "fibers": 323,
+      "films": 81,
+      "beads": 124
+    },
+    {
+      "name": "Prydz Bay",
+      "long": 75,
+      "lat": -70,
+      "fragments": 472,
+      "fibers": 143,
+      "films": 123,
+      "beads": 188
+    },
+    {
+      "name": "McMurdo Sound",
+      "long": 165,
+      "lat": -78,
+      "fragments": 446,
+      "fibers": 573,
+      "films": 271,
+      "beads": 33
+    },
+    {
+      "name": "Antarctic Circumpolar Current",
+      "long": 0,
+      "lat": -55,
+      "fragments": 648,
+      "fibers": 658,
+      "films": 162,
+      "beads": 40
+    },
+    {
+      "name": "South Sandwich Trench",
+      "long": -25,
+      "lat": -58,
+      "fragments": 301,
+      "fibers": 152,
+      "films": 290,
+      "beads": 108
+    },
+    {
+      "name": "South Scotia Ridge",
+      "long": -45,
+      "lat": -55,
+      "fragments": 446,
+      "fibers": 521,
+      "films": 86,
+      "beads": 122
+    },
+    {
+      "name": "Antarctic Bottom Water",
+      "long": -60,
+      "lat": -65,
+      "fragments": 614,
+      "fibers": 546,
+      "films": 282,
+      "beads": 118
+    }
+  ]
+}

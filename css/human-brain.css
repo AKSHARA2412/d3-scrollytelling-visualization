@@ -1,0 +1,101 @@
+.human-brain-tooltip {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.9);
+    color: #fff;
+    padding: 12px;
+    border: 1px solid #00ff99;
+    border-radius: 8px;
+    pointer-events: none;
+    font-size: 14px;
+    max-width: 300px;
+    opacity: 0;
+    z-index: 9999;
+}
+
+#slider-container {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#yearSlider {
+    width: 60%;
+    margin: 10px auto;
+}
+
+svg {
+    display: block;
+    margin: auto;
+    background-color: transparent;
+    border-radius: 20px;
+}
+
+.node-label {
+    fill: #fff;
+    font-size: 11px;
+    text-anchor: middle;
+    pointer-events: none;
+}
+
+#background {
+    width: 100%;
+}
+
+#overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#label {
+    position: absolute;
+    background: black;
+    color: white;
+    padding: 5px 8px;
+    font-size: 14px;
+    border-radius: 6px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+#infoBox {
+    margin-top: 20px;
+    padding: 20px;
+    width: 600px;
+    background: #f0f0f0;
+    border-radius: 10px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+}
+
+#barChart {
+    margin-left: -200px;
+}
+
+.organ-part {
+    fill: transparent;
+    stroke: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.organ-part:hover {
+    stroke: #90caf9;
+    stroke-width: 3;
+    fill: rgba(144, 202, 249, 0.2);
+}
+
+.bar {
+    fill: #ccc;
+    transition: fill 0.3s ease;
+}
+
+.bar.highlighted {
+    fill: #ff5722;
+}
+
+#brain-slider-container {
+    text-align: center;
+}

@@ -1,0 +1,39 @@
+.node {
+    box-sizing: border-box;
+    position: absolute;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.node-label {
+    font-size: 12px;
+    padding: 5px;
+    color: white;
+}
+
+#flow-water {
+    flex-grow: 1;
+}
+
+#flow-water svg {
+    margin-left: 0px;
+}
+
+#tooltip-treemap {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.75);
+    color: #fff;
+    padding: 6px 10px;
+    font-size: 12px;
+    border-radius: 4px;
+    pointer-events: none;
+    z-index: 9;
+}
+  
+#bottle-wrapper {
+    width: 608px;
+    height: 208px;
+    clip-path: url(#bottleClipPath);
+    -webkit-clip-path: url(#bottleClipPath);
+    position: relative;
+}

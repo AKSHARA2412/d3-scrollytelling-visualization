@@ -1,0 +1,42 @@
+[
+  {
+    "region": "Frontal Lobe",
+    "x": 220,
+    "y": 150,
+    "radius": 45,
+    "percent": 45,
+    "effect": "Cognitive Decline"
+  },
+  {
+    "region": "Hippocampus",
+    "x": 320,
+    "y": 260,
+    "radius": 40,
+    "percent": 60,
+    "effect": "Memory Impairment"
+  },
+  {
+    "region": "Cerebellum",
+    "x": 420,
+    "y": 410,
+    "radius": 35,
+    "percent": 35,
+    "effect": "Motor Function Disruption"
+  },
+  {
+    "region": "Amygdala",
+    "x": 380,
+    "y": 310,
+    "radius": 30,
+    "percent": 25,
+    "effect": "Emotional Instability"
+  },
+  {
+    "region": "Brainstem",
+    "x": 440,
+    "y": 500,
+    "radius": 30,
+    "percent": 20,
+    "effect": "Autonomic Control Affected"
+  }
+]

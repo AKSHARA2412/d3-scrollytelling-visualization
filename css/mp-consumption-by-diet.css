@@ -1,0 +1,61 @@
+#microplastics-consumption {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px 0px;
+    font-family: 'Arial', sans-serif;
+    background-color: #0a3b4e;
+    box-sizing: border-box;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    border-radius: 12px;
+}
+
+#microplastics-title {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+#chart-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: -20px;
+    overflow-x: auto;
+    padding-bottom: 20px;
+}
+
+#microplastics-heatmap {
+    flex-shrink: 0;
+    border-radius: 20px;
+    background-color: #072935;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    transform: translate(3%, 00%);
+}
+
+#microplastics-legend {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 120px;
+    padding-top: 100px;
+}
+
+#microplastics-tooltip {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+    background: rgba(0, 0, 0, 0.85);
+    color: #fff;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 12px;
+    width: 200px;
+    word-wrap: break-word;
+    z-index: 1000;
+    transition: opacity 0.3s ease;
+}

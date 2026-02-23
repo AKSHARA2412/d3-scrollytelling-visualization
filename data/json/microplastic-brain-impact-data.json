@@ -1,0 +1,392 @@
+[
+  {
+    "disease_name": "Cognitive Decline",
+    "affected_brain_region": "Temporal Lobe",
+    "microplastic_levels": {
+      "initial_year": 2000,
+      "initial_concentration_mg_per_kg": 1.26,
+      "final_year": 2013,
+      "final_concentration_mg_per_kg": 3.9
+    },
+    "initial_symptom_noticed": "Fatigue",
+    "duration_until_full_effect": "4 years",
+    "impact_summary": "Cognitive Decline is increasingly being associated with prolonged microplastic exposure in the Cerebellum. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Memory Loss",
+    "affected_brain_region": "Temporal Lobe",
+    "microplastic_levels": {
+      "initial_year": 2003,
+      "initial_concentration_mg_per_kg": 4.99,
+      "final_year": 2015,
+      "final_concentration_mg_per_kg": 11.19
+    },
+    "initial_symptom_noticed": "Tremors",
+    "duration_until_full_effect": "5 years",
+    "impact_summary": "Memory Loss is increasingly being associated with prolonged microplastic exposure in the Frontal Lobe. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Motor Dysfunction",
+    "affected_brain_region": "Temporal Lobe",
+    "microplastic_levels": {
+      "initial_year": 2009,
+      "initial_concentration_mg_per_kg": 4.37,
+      "final_year": 2022,
+      "final_concentration_mg_per_kg": 9.02
+    },
+    "initial_symptom_noticed": "Fatigue",
+    "duration_until_full_effect": "4 years",
+    "impact_summary": "Motor Dysfunction is increasingly being associated with prolonged microplastic exposure in the Occipital Lobe. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Emotional Instability",
+    "affected_brain_region": "Hypothalamus",
+    "microplastic_levels": {
+      "initial_year": 2003,
+      "initial_concentration_mg_per_kg": 2.72,
+      "final_year": 2017,
+      "final_concentration_mg_per_kg": 5.63
+    },
+    "initial_symptom_noticed": "Fatigue",
+    "duration_until_full_effect": "2 years",
+    "impact_summary": "Emotional Instability is increasingly being associated with prolonged microplastic exposure in the Temporal Lobe. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Neuroinflammation",
+    "affected_brain_region": "Temporal Lobe",
+    "microplastic_levels": {
+      "initial_year": 2003,
+      "initial_concentration_mg_per_kg": 3.33,
+      "final_year": 2015,
+      "final_concentration_mg_per_kg": 7.8
+    },
+    "initial_symptom_noticed": "Mood swings",
+    "duration_until_full_effect": "3 years",
+    "impact_summary": "Neuroinflammation is increasingly being associated with prolonged microplastic exposure in the Hypothalamus. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Neurotoxicity",
+    "affected_brain_region": "Brainstem",
+    "microplastic_levels": {
+      "initial_year": 2004,
+      "initial_concentration_mg_per_kg": 4.44,
+      "final_year": 2018,
+      "final_concentration_mg_per_kg": 10.75
+    },
+    "initial_symptom_noticed": "Fatigue",
+    "duration_until_full_effect": "3 years",
+    "impact_summary": "Neurotoxicity is increasingly being associated with prolonged microplastic exposure in the Hypothalamus. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Parkinsonian Symptoms",
+    "affected_brain_region": "Amygdala",
+    "microplastic_levels": {
+      "initial_year": 2008,
+      "initial_concentration_mg_per_kg": 4.31,
+      "final_year": 2018,
+      "final_concentration_mg_per_kg": 10.0
+    },
+    "initial_symptom_noticed": "Tremors",
+    "duration_until_full_effect": "4 years",
+    "impact_summary": "Parkinsonian Symptoms is increasingly being associated with prolonged microplastic exposure in the Occipital Lobe. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Alzheimer\u2019s-like Symptoms",
+    "affected_brain_region": "Temporal Lobe",
+    "microplastic_levels": {
+      "initial_year": 2002,
+      "initial_concentration_mg_per_kg": 3.26,
+      "final_year": 2012,
+      "final_concentration_mg_per_kg": 9.81
+    },
+    "initial_symptom_noticed": "Mild forgetfulness",
+    "duration_until_full_effect": "4 years",
+    "impact_summary": "Alzheimer\u2019s-like Symptoms is increasingly being associated with prolonged microplastic exposure in the Occipital Lobe. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Depression",
+    "affected_brain_region": "Hypothalamus",
+    "microplastic_levels": {
+      "initial_year": 2006,
+      "initial_concentration_mg_per_kg": 3.37,
+      "final_year": 2016,
+      "final_concentration_mg_per_kg": 9.72
+    },
+    "initial_symptom_noticed": "Sleep disturbances",
+    "duration_until_full_effect": "3 years",
+    "impact_summary": "Depression is increasingly being associated with prolonged microplastic exposure in the Cerebellum. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Anxiety",
+    "affected_brain_region": "Cerebellum",
+    "microplastic_levels": {
+      "initial_year": 2004,
+      "initial_concentration_mg_per_kg": 1.14,
+      "final_year": 2016,
+      "final_concentration_mg_per_kg": 3.3
+    },
+    "initial_symptom_noticed": "Mild forgetfulness",
+    "duration_until_full_effect": "4 years",
+    "impact_summary": "Anxiety is increasingly being associated with prolonged microplastic exposure in the Amygdala. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Seizure Susceptibility",
+    "affected_brain_region": "Cerebellum",
+    "microplastic_levels": {
+      "initial_year": 2001,
+      "initial_concentration_mg_per_kg": 4.43,
+      "final_year": 2011,
+      "final_concentration_mg_per_kg": 10.54
+    },
+    "initial_symptom_noticed": "Loss of focus",
+    "duration_until_full_effect": "3 years",
+    "impact_summary": "Seizure Susceptibility is increasingly being associated with prolonged microplastic exposure in the Brainstem. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Neurodegeneration",
+    "affected_brain_region": "Hippocampus",
+    "microplastic_levels": {
+      "initial_year": 2006,
+      "initial_concentration_mg_per_kg": 3.18,
+      "final_year": 2017,
+      "final_concentration_mg_per_kg": 7.83
+    },
+    "initial_symptom_noticed": "Tremors",
+    "duration_until_full_effect": "2 years",
+    "impact_summary": "Neurodegeneration is increasingly being associated with prolonged microplastic exposure in the Frontal Lobe. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Blood-Brain Barrier Breakdown",
+    "affected_brain_region": "Cerebellum",
+    "microplastic_levels": {
+      "initial_year": 2001,
+      "initial_concentration_mg_per_kg": 1.43,
+      "final_year": 2012,
+      "final_concentration_mg_per_kg": 3.64
+    },
+    "initial_symptom_noticed": "Tremors",
+    "duration_until_full_effect": "4 years",
+    "impact_summary": "Blood-Brain Barrier Breakdown is increasingly being associated with prolonged microplastic exposure in the Frontal Lobe. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Autonomic Dysfunction",
+    "affected_brain_region": "Frontal Lobe",
+    "microplastic_levels": {
+      "initial_year": 2004,
+      "initial_concentration_mg_per_kg": 3.42,
+      "final_year": 2017,
+      "final_concentration_mg_per_kg": 5.72
+    },
+    "initial_symptom_noticed": "Sleep disturbances",
+    "duration_until_full_effect": "2 years",
+    "impact_summary": "Autonomic Dysfunction is increasingly being associated with prolonged microplastic exposure in the Amygdala. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Sensory Processing Disorder",
+    "affected_brain_region": "Brainstem",
+    "microplastic_levels": {
+      "initial_year": 2000,
+      "initial_concentration_mg_per_kg": 4.01,
+      "final_year": 2013,
+      "final_concentration_mg_per_kg": 9.13
+    },
+    "initial_symptom_noticed": "Mild forgetfulness",
+    "duration_until_full_effect": "3 years",
+    "impact_summary": "Sensory Processing Disorder is increasingly being associated with prolonged microplastic exposure in the Temporal Lobe. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Brain Fog",
+    "affected_brain_region": "Temporal Lobe",
+    "microplastic_levels": {
+      "initial_year": 2008,
+      "initial_concentration_mg_per_kg": 1.09,
+      "final_year": 2018,
+      "final_concentration_mg_per_kg": 6.43
+    },
+    "initial_symptom_noticed": "Mood swings",
+    "duration_until_full_effect": "5 years",
+    "impact_summary": "Brain Fog is increasingly being associated with prolonged microplastic exposure in the Cerebellum. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Fatigue Syndrome",
+    "affected_brain_region": "Frontal Lobe",
+    "microplastic_levels": {
+      "initial_year": 2008,
+      "initial_concentration_mg_per_kg": 3.54,
+      "final_year": 2021,
+      "final_concentration_mg_per_kg": 6.58
+    },
+    "initial_symptom_noticed": "Sleep disturbances",
+    "duration_until_full_effect": "5 years",
+    "impact_summary": "Fatigue Syndrome is increasingly being associated with prolonged microplastic exposure in the Hypothalamus. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Irritability",
+    "affected_brain_region": "Amygdala",
+    "microplastic_levels": {
+      "initial_year": 2009,
+      "initial_concentration_mg_per_kg": 4.83,
+      "final_year": 2023,
+      "final_concentration_mg_per_kg": 7.53
+    },
+    "initial_symptom_noticed": "Loss of focus",
+    "duration_until_full_effect": "5 years",
+    "impact_summary": "Irritability is increasingly being associated with prolonged microplastic exposure in the Cerebellum. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Impaired Coordination",
+    "affected_brain_region": "Hypothalamus",
+    "microplastic_levels": {
+      "initial_year": 2007,
+      "initial_concentration_mg_per_kg": 4.16,
+      "final_year": 2018,
+      "final_concentration_mg_per_kg": 7.38
+    },
+    "initial_symptom_noticed": "Mild forgetfulness",
+    "duration_until_full_effect": "3 years",
+    "impact_summary": "Impaired Coordination is increasingly being associated with prolonged microplastic exposure in the Thalamus. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Decision-Making Impairment",
+    "affected_brain_region": "Temporal Lobe",
+    "microplastic_levels": {
+      "initial_year": 2006,
+      "initial_concentration_mg_per_kg": 1.85,
+      "final_year": 2020,
+      "final_concentration_mg_per_kg": 7.65
+    },
+    "initial_symptom_noticed": "Mild forgetfulness",
+    "duration_until_full_effect": "2 years",
+    "impact_summary": "Decision-Making Impairment is increasingly being associated with prolonged microplastic exposure in the Cerebellum. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Visual Processing Delay",
+    "affected_brain_region": "Occipital Lobe",
+    "microplastic_levels": {
+      "initial_year": 2001,
+      "initial_concentration_mg_per_kg": 4.48,
+      "final_year": 2011,
+      "final_concentration_mg_per_kg": 6.92
+    },
+    "initial_symptom_noticed": "Mild forgetfulness",
+    "duration_until_full_effect": "4 years",
+    "impact_summary": "Visual Processing Delay is increasingly being associated with prolonged microplastic exposure in the Hypothalamus. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Speech Difficulty",
+    "affected_brain_region": "Occipital Lobe",
+    "microplastic_levels": {
+      "initial_year": 2010,
+      "initial_concentration_mg_per_kg": 1.59,
+      "final_year": 2023,
+      "final_concentration_mg_per_kg": 7.7
+    },
+    "initial_symptom_noticed": "Mood swings",
+    "duration_until_full_effect": "5 years",
+    "impact_summary": "Speech Difficulty is increasingly being associated with prolonged microplastic exposure in the Amygdala. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Focus Deficiency",
+    "affected_brain_region": "Parietal Lobe",
+    "microplastic_levels": {
+      "initial_year": 2001,
+      "initial_concentration_mg_per_kg": 1.48,
+      "final_year": 2011,
+      "final_concentration_mg_per_kg": 4.79
+    },
+    "initial_symptom_noticed": "Mood swings",
+    "duration_until_full_effect": "5 years",
+    "impact_summary": "Focus Deficiency is increasingly being associated with prolonged microplastic exposure in the Hypothalamus. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Impulse Control Issues",
+    "affected_brain_region": "Hippocampus",
+    "microplastic_levels": {
+      "initial_year": 2009,
+      "initial_concentration_mg_per_kg": 3.93,
+      "final_year": 2021,
+      "final_concentration_mg_per_kg": 9.64
+    },
+    "initial_symptom_noticed": "Fatigue",
+    "duration_until_full_effect": "4 years",
+    "impact_summary": "Impulse Control Issues is increasingly being associated with prolonged microplastic exposure in the Hypothalamus. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Dementia Risk",
+    "affected_brain_region": "Parietal Lobe",
+    "microplastic_levels": {
+      "initial_year": 2009,
+      "initial_concentration_mg_per_kg": 4.13,
+      "final_year": 2023,
+      "final_concentration_mg_per_kg": 6.45
+    },
+    "initial_symptom_noticed": "Loss of focus",
+    "duration_until_full_effect": "5 years",
+    "impact_summary": "Dementia Risk is increasingly being associated with prolonged microplastic exposure in the Cerebellum. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Olfactory Dysfunction",
+    "affected_brain_region": "Frontal Lobe",
+    "microplastic_levels": {
+      "initial_year": 2006,
+      "initial_concentration_mg_per_kg": 1.27,
+      "final_year": 2020,
+      "final_concentration_mg_per_kg": 4.44
+    },
+    "initial_symptom_noticed": "Mood swings",
+    "duration_until_full_effect": "4 years",
+    "impact_summary": "Olfactory Dysfunction is increasingly being associated with prolonged microplastic exposure in the Amygdala. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Chronic Headaches",
+    "affected_brain_region": "Amygdala",
+    "microplastic_levels": {
+      "initial_year": 2004,
+      "initial_concentration_mg_per_kg": 4.99,
+      "final_year": 2017,
+      "final_concentration_mg_per_kg": 8.42
+    },
+    "initial_symptom_noticed": "Fatigue",
+    "duration_until_full_effect": "2 years",
+    "impact_summary": "Chronic Headaches is increasingly being associated with prolonged microplastic exposure in the Thalamus. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Hormonal Regulation Disorder",
+    "affected_brain_region": "Thalamus",
+    "microplastic_levels": {
+      "initial_year": 2007,
+      "initial_concentration_mg_per_kg": 2.47,
+      "final_year": 2017,
+      "final_concentration_mg_per_kg": 5.5
+    },
+    "initial_symptom_noticed": "Mild forgetfulness",
+    "duration_until_full_effect": "2 years",
+    "impact_summary": "Hormonal Regulation Disorder is increasingly being associated with prolonged microplastic exposure in the Frontal Lobe. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Stress Response Impairment",
+    "affected_brain_region": "Occipital Lobe",
+    "microplastic_levels": {
+      "initial_year": 2005,
+      "initial_concentration_mg_per_kg": 2.5,
+      "final_year": 2020,
+      "final_concentration_mg_per_kg": 7.32
+    },
+    "initial_symptom_noticed": "Sleep disturbances",
+    "duration_until_full_effect": "2 years",
+    "impact_summary": "Stress Response Impairment is increasingly being associated with prolonged microplastic exposure in the Thalamus. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  },
+  {
+    "disease_name": "Sleep Cycle Disturbance",
+    "affected_brain_region": "Cerebellum",
+    "microplastic_levels": {
+      "initial_year": 2000,
+      "initial_concentration_mg_per_kg": 2.53,
+      "final_year": 2010,
+      "final_concentration_mg_per_kg": 5.27
+    },
+    "initial_symptom_noticed": "Mild forgetfulness",
+    "duration_until_full_effect": "5 years",
+    "impact_summary": "Sleep Cycle Disturbance is increasingly being associated with prolonged microplastic exposure in the Cerebellum. Studies indicate that as microplastic accumulation increases, so does the severity of this condition. The progression can be gradual but leads to significant disruption in daily cognitive, emotional, or physical functions over time."
+  }
+]

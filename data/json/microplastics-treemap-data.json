@@ -1,0 +1,46 @@
+{
+    "name": "Microplastics",
+    "children": [
+      {
+        "name": "Artificial turf",
+        "value": 0.05215642
+      },
+      {
+        "name": "Brake dust",
+        "value": 0.046183555
+      },
+      {
+        "name": "Marine coatings",
+        "value": 0.048302832
+      },
+      {
+        "name": "Microbeads",
+        "value": 0.004624946
+      },
+      {
+        "name": "Microplastics dust",
+        "value": 0.770086015
+      },
+      {
+        "name": "Primary pellets",
+        "value": 0.279156628
+      },
+      {
+        "name": "Road markings",
+        "value": 0.220453497
+      },
+      {
+        "name": "Textile wash",
+        "value": 0.008324611
+      },
+      {
+        "name": "Tyre abrasion",
+        "value": 0.69131106
+      },
+      {
+        "name": "WW sludge",
+        "value": 0.563115054
+      }
+    ]
+  }
+  
